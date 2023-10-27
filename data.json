@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "name": "Shishir",
+        "email": "sangameshshishir@gmail.com",
+        "password": "QHNhbmd1MjM=",
+        "phone": "9538398740",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "2",
+        "name": "Dharshan",
+        "email": "darshan@gmail.com",
+        "password": "MTIzNDU2Nzhx",
+        "phone": "9538398740",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-01-22",
+        "age": "22"
+    },
+    {
+        "id": "3",
+        "name": "abcd",
+        "email": "abc@gmail.com",
+        "password": "MTIzNDU2Nzhx",
+        "phone": "9538398740",
+        "gender": "Male",
+        "degree": "",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "4",
+        "name": "Dhanu",
+        "email": "dhanu@gmail.com",
+        "password": "MTIzNDU2Nzhx",
+        "phone": "8181818181",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-01-22",
+        "age": "22"
+    },
+    {
+        "id": "5",
+        "name": "sssssss",
+        "email": "sasas@gmail.com",
+        "password": "MTIzNDU2Nzhx",
+        "phone": "7654222222",
+        "gender": "Female",
+        "degree": "BCA",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "6",
+        "name": "mmmmm",
+        "email": "m@gmail.com",
+        "password": "MTIzNDU2Nzhx",
+        "phone": "8181818181",
+        "gender": "Female",
+        "degree": "",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "7",
+        "name": "Dhandhli",
+        "email": "dileep@gmail.com",
+        "password": "12345678q",
+        "phone": "8585858585",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "8",
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "password": "@sangu23",
+        "phone": "8181818181",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-03-23",
+        "age": "22"
+    },
+    {
+        "id": "9",
+        "name": "xccc",
+        "email": "xc@gmail.com",
+        "password": "@sangu23",
+        "phone": "8181818181",
+        "gender": "Male",
+        "degree": "B.E.",
+        "dob": "2001-02-07",
+        "age": "22"
+    }
+]
